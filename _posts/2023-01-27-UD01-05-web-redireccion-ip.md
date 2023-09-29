@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "UD01-27 : Configuración dun Servidor Web Local e Redirección de Dominios"
+title:  "UD01-05 : Configuración dun Servidor Web Local e Redirección de Dominios"
 date:   2023-09-27 19:11:33 +0200
 categories: UD01
 ---
@@ -84,7 +84,4 @@ categories: UD01
         engadiches ao arquivo hosts e elimina o arquivo `index.html` do
         directorio `/var/www/html/`.
 
-Esta práctica proporciona unha experiencia práctica na configuración dun
-servidor web e na manipulación do arquivo hosts, o que pode ser moi útil
-para entender como funcionan os servidores web e a resolución de nomes
-de dominio.
+
