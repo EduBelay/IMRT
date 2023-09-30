@@ -19,6 +19,8 @@ categories: UD01 linux
 1. Python 3
 1. Permisos de Administrador
 1. Conexión a Internet (opcional)
+
+
 ### <a name="pasos"></a>**Pasos:**
 1. **Modificar o Arquivo Hosts**:
    - Abre o terminal.
@@ -28,7 +30,7 @@ categories: UD01 linux
    - Engade a seguinte liña ao final do arquivo:
 
      127.0.0.1 edu.xunta.gal
-1. **Crear unha Páxina Web Simples**:
+2. **Crear unha Páxina Web Simples**:
    - Crea un arquivo chamado index.html no teu escritorio e engade o seguinte contido:
 
      <!DOCTYPE html>
@@ -40,16 +42,16 @@ categories: UD01 linux
      **<body>**
      **</body>**
      **</html>**
-1. **Servir a Páxina Web Simples**:
+3. **Servir a Páxina Web Simples**:
    - Podes usar Python para servir a túa páxina web simple. Abre o terminal e navega ao directorio onde está o arquivo index.html:
 
      cd ~/Desktop
    - Agora executa o seguinte comando para servir a túa páxina web:
 
      python3 -m http.server 80
-1. **Probar a Redirección**:
+4. **Probar a Redirección**:
    - Abre o teu navegador web e vai a <http://edu.xunta.gal>. Deberías ser redirixido a <http://praza.gal>.
-1. **Reverter os Cambios (opcional)**:
+5. **Reverter os Cambios (opcional)**:
    - Se desexas revertir os cambios, simplemente elimina a liña que engadiches ao arquivo hosts.
    - Para deter o servidor web, volta ao terminal e preme Ctrl + C.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "UD01-00 : Linux saidas do comando ip"
 date:   2023-09-27 19:11:33 +0200
-categories: UD01
+categories: UD01 linux
 ---
 # Exemplos de Saída do Comando ip a show e Preguntas
 
