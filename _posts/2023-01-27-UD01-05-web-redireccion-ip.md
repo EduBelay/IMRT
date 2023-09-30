@@ -2,7 +2,7 @@
 layout: post
 title:  "UD01-05 : Configuración dun Servidor Web Local e Redirección de Dominios"
 date:   2023-09-27 19:11:33 +0200
-categories: UD01
+categories: UD01 linux
 ---
 
 # Práctica: Configuración dun Servidor Web Local e Redirección de Dominios

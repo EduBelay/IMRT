@@ -2,7 +2,7 @@
 layout: post
 title:  "UD01-01 :  Uso do comando ip en Ubuntu (VirtualBox)"
 date:   2023-09-27 19:11:33 +0200
-categories: UD01
+categories: UD01 linux
 ---
 # Práctica: Uso do comando ip en Ubuntu (VirtualBox)
 O comando ip é unha ferramenta para administrar interfaces de rede e rutas en sistemas Linux. Nesta práctica, aprenderás a usar diferentes opcións deste comando en Ubuntu, ten en conta que o nome da interface de rede pode ser diferente aos exemplos indicados. 

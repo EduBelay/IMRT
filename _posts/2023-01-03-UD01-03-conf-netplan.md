@@ -2,8 +2,8 @@
 layout: post
 title:  "UD01-03 : Configuración da Tarxeta de Rede en Dúas Máquinas Virtuais en VirtualBox con Xubuntu"
 date:   2023-09-27 19:11:33 +0200
-categories: UD01
----
+categories: UD01 linux
+--- 
 
 
 ##  Configuración da Tarxeta de Rede en Dúas Máquinas Virtuais en VirtualBox con Xubuntu

@@ -2,7 +2,7 @@
 layout: post
 title:  "UD01-03 :  Configuración de rede"
 date:   2023-09-27 19:11:33 +0200
-categories: UD01
+categories: UD01 linux
 ---
 #  Configuración de Rede en VirtualBox:
 **1. PC01:**
